@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4661226216",
+    "project_id": "flash-chat-49fc1",
+    "storage_bucket": "flash-chat-49fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4661226216:android:2be80bc68b2b88456eb75d",
+        "android_client_info": {
+          "package_name": "com.ahmedsaber.chat_fluuter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4661226216-6tub11gav7irdlth9e51s8gnhc0dvs6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSUMpMlK9OixwY9kYTneQc9Ltrfy3ryo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4661226216-6tub11gav7irdlth9e51s8gnhc0dvs6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
